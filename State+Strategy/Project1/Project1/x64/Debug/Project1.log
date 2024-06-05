@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\унік\ООАП\10\Lab10_OOAP\State+Strategy\Project1\AttractionListState.h(33,28): error C2027: use of undefined type 'AttractionListContext'
+  (compiling source file 'main.cpp')
+  D:\унік\ООАП\10\Lab10_OOAP\State+Strategy\Project1\AttractionListState.h(11,7):
+  see declaration of 'AttractionListContext'
+  
